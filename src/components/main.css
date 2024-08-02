@@ -1,0 +1,25 @@
+body {
+    background-color: #060607;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Inter', sans-serif;
+}
+
+p {
+    font-family: 'Karla', sans-serif;
+}
+
+::selection {
+    background-color: #0ea5e9;
+    color: #fff;
+}
+
+::-moz-selection {
+    background-color: #0ea5e9;
+    color: #fff;
+}
