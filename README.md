@@ -3,6 +3,7 @@
 
 ![image](https://github.com/user-attachments/assets/efbf3263-f29b-4dac-8d86-5f3b928db460)
 
+> [Demo için tıklayın](https://lourity.vercel.app/)
 
 ## 🖊️ Projeyi Bilgisayarımda Nasıl Başlatırım?
 1 ) Dosyayı bilgisayarınıza indirdikten sonra `config.json` kısmındaki bilgileri doldurun.
