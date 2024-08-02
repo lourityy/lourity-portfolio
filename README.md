@@ -39,5 +39,6 @@ NOT: Projeyi GitHub'a modülleri indirmeden aktardığınızdan emin olun, eğer
 5 ) Artık proıje kullanıma hazır!
 
 
+
 Bu projenin izinsiz paylaşılması/satılması kesinlikle yasaktır.
 
